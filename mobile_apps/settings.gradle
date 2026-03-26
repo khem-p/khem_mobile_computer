@@ -1,0 +1,10 @@
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}
+rootProject.name = "mobile_apps"
+
+includeBuild 'HelloWorld'
+includeBuild 'SumCalculator'
+includeBuild 'eXP5'
+includeBuild 'Canvas'
+includeBuild 'Pictures'
