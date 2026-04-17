@@ -1,0 +1,18 @@
+// Root build file for the mobile_apps project.
+// Sub-projects are included as composite builds in settings.gradle.
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Add any classpath dependencies here if needed for the root project
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}

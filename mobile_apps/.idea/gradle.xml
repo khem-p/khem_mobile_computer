@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/Canvas" name="prac_1">
+                <projects>
+                  <project path="$PROJECT_DIR$/Canvas" />
+                  <project path="$PROJECT_DIR$/Canvas/app" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/eXP5" name="eXP5">
+                <projects>
+                  <project path="$PROJECT_DIR$/eXP5" />
+                  <project path="$PROJECT_DIR$/eXP5/app" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/HelloWorld" name="app2">
+                <projects>
+                  <project path="$PROJECT_DIR$/HelloWorld" />
+                  <project path="$PROJECT_DIR$/HelloWorld/app" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/Pictures" name="Practise3">
+                <projects>
+                  <project path="$PROJECT_DIR$/Pictures" />
+                  <project path="$PROJECT_DIR$/Pictures/app" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/SumCalculator" name="Sum Calculator">
+                <projects>
+                  <project path="$PROJECT_DIR$/SumCalculator" />
+                  <project path="$PROJECT_DIR$/SumCalculator/app" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Canvas" />
+            <option value="$PROJECT_DIR$/Canvas/app" />
+            <option value="$PROJECT_DIR$/HelloWorld" />
+            <option value="$PROJECT_DIR$/HelloWorld/app" />
+            <option value="$PROJECT_DIR$/Pictures" />
+            <option value="$PROJECT_DIR$/Pictures/app" />
+            <option value="$PROJECT_DIR$/SumCalculator" />
+            <option value="$PROJECT_DIR$/SumCalculator/app" />
+            <option value="$PROJECT_DIR$/eXP5" />
+            <option value="$PROJECT_DIR$/eXP5/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

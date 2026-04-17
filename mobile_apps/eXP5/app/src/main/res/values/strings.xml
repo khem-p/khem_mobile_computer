@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toggle Exercise</string>
+    <string name="toggle_on">Toggle is ON</string>
+    <string name="toggle_off">Toggle is OFF</string>
+    <string name="btn_on">ON</string>
+    <string name="btn_off">OFF</string>
+</resources>
