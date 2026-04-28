@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sum Calculator</string>
+    <string name="num1_label">Number 1</string>
+    <string name="num2_label">Number 2</string>
+    <string name="hint_num1">Enter First Number</string>
+    <string name="hint_num2">Enter Second Number</string>
+    <string name="btn_add">Addition</string>
+    <string name="btn_sub">Subtraction</string>
+    <string name="btn_mul">Multiplication</string>
+    <string name="btn_div">Division</string>
+    <string name="btn_reset">Reset</string>
+    <string name="result_label">Result: </string>
+    <string name="err_invalid_input">Invalid input</string>
+    <string name="err_enter_numbers">Please Enter Valid Numbers...</string>
+    <string name="err_div_zero">Cannot be divided by zero...</string>
+</resources>
